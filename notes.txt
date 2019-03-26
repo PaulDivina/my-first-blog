@@ -1,0 +1,5 @@
+--Starts your virtual environment 
+myvenv\Scripts\activate 
+
+--Start server
+python manage.py runserver
